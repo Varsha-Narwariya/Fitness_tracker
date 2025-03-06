@@ -19,8 +19,8 @@ Python-based backend designed to help users monitor and analyze their nutrition 
 - **Email Notifications**: Get reminders and alerts to maintain consistent health tracking.
 
 ## Installation
-- Clone the repository: `git clone https://github.com/siddhant-vij/Health-Fitness-Tracker.git`
-- Navigate to the project directory: `cd Health-Fitness-Tracker`
+- Clone the repository: `git clone https://github.com/Varsha-Narwariya/Fitness_tracker.git`
+- Navigate to the project directory: `cd Fitness_Tracker`
 - Install dependencies: `conda create --name fitness --file requirements.txt`
 - Activate the environment: `conda activate fitness`
 - Create a `.env` file in the project root directory based on the `.env.example` template.
